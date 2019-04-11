@@ -1,14 +1,1 @@
-{
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    },
-     "userprofile": {
-      "name": "typicode"
-    }
-  }
+{"dslamlist_actual2":[{"node":"BAK","total":"6"},{"node":"BIN","total":"3"},{"node":"BNR","total":"4"},{"node":"BRF","total":"3"},{"node":"BRK","total":"5"},{"node":"CRS","total":"1"},{"node":"DM","total":"4"},{"node":"MDH","total":"4"},{"node":"MRI","total":"8"},{"node":"MTM","total":"2"},{"node":"PAN","total":"2"},{"node":"PEG","total":"5"},{"node":"SMK","total":"2"},{"node":"SPE","total":"3"},{"node":"STL","total":"3"},{"node":"TAR","total":"4"}],"dslamlist_plan2":[{"node":"BAK","total":"6","actual":"6","progress":"100%"},{"node":"BIN","total":"3","actual":"3","progress":"100%"},{"node":"BNR","total":"4","actual":"4","progress":"100%"},{"node":"BRF","total":"3","actual":"3","progress":"100%"},{"node":"BRK","total":"5","actual":"5","progress":"100%"},{"node":"DM","total":"4","actual":"4","progress":"100%"},{"node":"DTA","total":"1","actual":"0","progress":"0%"},{"node":"KLC","total":"3","actual":"0","progress":"0%"},{"node":"MDH","total":"4","actual":"4","progress":"100%"},{"node":"MRI","total":"8","actual":"8","progress":"100%"},{"node":"MTM","total":"2","actual":"2","progress":"100%"},{"node":"PAN","total":"2","actual":"2","progress":"100%"},{"node":"PEG","total":"5","actual":"5","progress":"100%"},{"node":"SMK","total":"2","actual":"2","progress":"100%"},{"node":"SPE","total":"3","actual":"3","progress":"100%"},{"node":"STL","total":"3","actual":"3","progress":"100%"},{"node":"TAR","total":"3","actual":"4","progress":"133%"}]}
